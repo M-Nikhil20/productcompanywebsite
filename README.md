@@ -346,4 +346,5 @@ OUTPUT:
 ![image](https://user-images.githubusercontent.com/118707852/215409686-f0ac2a90-19bd-443f-a2a3-603ddd771bf9.png)
 
 Result:
+  
 Thus a website is designed for the software product company and the HTML,CSS code are validated.

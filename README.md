@@ -1,32 +1,32 @@
-Web Design for a Software Product Company
-AIM:
+# Web Design for a Software Product Company
+# AIM:
 
 To design a static website for a software product company company.
-DESIGN STEPS:
-Step 1:
+# DESIGN STEPS:
+# Step 1:
 
 Requirement collection.
-Step 2:
+# # Step 2:
 
 Creating the layout using HTML and CSS.
-Step 3:
+# Step 3:
 
 Updating the sample content.
-Step 4:
+# Step 4:
 
 Choose the appropriate style and color scheme.
-Step 5:
+# Step 5:
 
 Validate the layout in various browsers.
-Step 6:
+# Step 6:
 
 Validate the HTML code.
-Step 6:
+Step 7:
 
 Publish the website in the given URL.
-PROGRAM :
+# PROGRAM :
 
-HOME CODE:
+# HOME CODE:
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -71,7 +71,7 @@ HOME CODE:
   </body>
 </html>
 
-PRODUCT CODE:
+# PRODUCT CODE:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -200,7 +200,7 @@ PRODUCT CODE:
   </body>
 </html>
 
-PEOPLE CODE:
+# PEOPLE CODE:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -282,7 +282,7 @@ PEOPLE CODE:
   </body>
 </html>
 
-CONTACT CODE:
+# CONTACT CODE:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -340,11 +340,11 @@ CONTACT CODE:
   </body>
 </html>
 
-OUTPUT:
+# OUTPUT:
 ![image](https://user-images.githubusercontent.com/118707852/215409623-f8cc5d16-24d1-431c-984e-34042dc0e8b9.png)
 ![image](https://user-images.githubusercontent.com/118707852/215409649-8a7e8701-5f61-48eb-b02d-b18ccf881fc2.png)
 ![image](https://user-images.githubusercontent.com/118707852/215409686-f0ac2a90-19bd-443f-a2a3-603ddd771bf9.png)
 
-Result:
+# Result:
   
 Thus a website is designed for the software product company and the HTML,CSS code are validated.

@@ -334,7 +334,7 @@ Publish the website in the given URL.
          </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 TCS Private Limited, Developed by safeeq fazil.
+        Copyright &#169; 2021 TCS Private Limited, Developed by nikhil.
       </div>
     </div>
   </body>

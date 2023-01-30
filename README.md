@@ -27,6 +27,7 @@ Publish the website in the given URL.
 # PROGRAM :
 
 # HOME CODE:
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -70,9 +71,9 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 # PRODUCT CODE:
-
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -199,9 +200,9 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 # PEOPLE CODE:
-
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -281,9 +282,9 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 # CONTACT CODE:
-
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -339,7 +340,7 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 # OUTPUT:
 ![image](https://user-images.githubusercontent.com/118707852/215409623-f8cc5d16-24d1-431c-984e-34042dc0e8b9.png)
 ![image](https://user-images.githubusercontent.com/118707852/215409649-8a7e8701-5f61-48eb-b02d-b18ccf881fc2.png)
